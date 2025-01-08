@@ -1,5 +1,6 @@
 # Massachusetts General Hospital Dashboard
-
+![Dashboard](![Dashboard Screenshot](https://github.com/user-attachments/assets/7ec0b238-74e9-4898-906d-fd1bd6e65ae5)
+)
 ## Project Overview
 For the Maven Hospital Challenge, I played the role of an Analytics Consultant for Massachusetts General Hospital (MGH). The objective was to build a high-level KPI report for the executive team, based on a subset of patient records. The purpose of the report is to give stakeholders visibility into the hospital’s recent performance and answer the following questions:
 
